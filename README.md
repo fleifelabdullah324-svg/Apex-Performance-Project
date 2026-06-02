@@ -18,6 +18,7 @@ The aftermarket automotive tuning industry has historically operated on trial-an
 * **Algorithm:** Random Forest Classifier (Scikit-Learn).
 * **Performance on 5,000 Test Samples:** * Accuracy: 99.76%
   * Precision/Recall/F1-Score: 0.99 - 1.00
+  * ROC AUC Score: 0.999 (Demonstrating near-perfect classification for Critical Failure).
 * **Engineering Context:** The model successfully mapped the deterministic physical bounds of internal combustion, identifying critical failure thresholds automatically based on boost, fuel, and internal components.
 
 ## 📈 Power BI Dashboard
